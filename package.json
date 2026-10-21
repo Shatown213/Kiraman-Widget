@@ -1,0 +1,15 @@
+{
+  "name": "kiraman",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Kiraman – suivi quotidien gamifié (APK Android via Capacitor)",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/local-notifications": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.2.0"
+  }
+}

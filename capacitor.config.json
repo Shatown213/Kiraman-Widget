@@ -1,0 +1,15 @@
+{
+  "appId": "com.kiraman.app",
+  "appName": "Kiraman",
+  "webDir": "www",
+  "backgroundColor": "#06221a",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    },
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_kiraman",
+      "iconColor": "#D4AF37"
+    }
+  }
+}
